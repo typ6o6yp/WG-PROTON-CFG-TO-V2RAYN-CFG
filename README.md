@@ -28,7 +28,7 @@ of manually copying and typing keys, IP addresses, and ports.
 4.  Paste into v2rayN: Open the v2rayN app and press Ctrl + V. The server is now
     added and ready to connect.
 
-=================================================================================
+===============================================
 
 1. Для чего?
 
