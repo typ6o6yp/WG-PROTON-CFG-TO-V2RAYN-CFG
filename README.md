@@ -28,36 +28,7 @@ of manually copying and typing keys, IP addresses, and ports.
 4.  Paste into v2rayN: Open the v2rayN app and press Ctrl + V. The server is now
     added and ready to connect.
 
-
-1. What it is for
-
-For quickly and effortlessly importing WireGuard configurations (including
-ProtonVPN) into v2rayN (as well as Sing-box, Xray, Nekoray) without the hassle
-of manually copying and typing keys, IP addresses, and ports.
-
-2. What it does
-
-  - Scans the local folder to automatically find all configuration files (.conf
-    and .txt).
-  - Extracts key parameters: private/public keys, endpoints, IP addresses,
-    ports, MTU, Keepalive, and server names.
-  - Generates standard URI links in the wireguard://... format supported by
-    v2rayN.
-  - Saves all links to a file (generated_links.txt) and displays an interactive
-    console menu that allows you to copy any link directly to your clipboard
-    with a single keystroke.
-
-3. Step-by-step instructions
-
-1.  Place the files: Put your .conf or .txt files into the same folder as the
-    program.
-2.  Run the program: Press Enter in the terminal to process the files.
-3.  Select a server: Type the number of the desired server from the list — its
-    link will be copied directly to your clipboard.
-4.  Paste into v2rayN: Open the v2rayN app and press Ctrl + V. The server is now
-    added and ready to connect.
-
-
+=================================================================================
 
 1. Для чего?
 
